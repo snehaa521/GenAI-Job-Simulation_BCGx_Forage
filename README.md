@@ -1,7 +1,7 @@
 # GenAI Job Simulation - BCGx | Forage
 
 ## 📌 Overview
-This project focuses on developing an AI-powered financial chatbot using Python. The chatbot is designed to analyze financial data from 10-K filings and provide structured, user-friendly insights based on predefined queries.
+This project focuses on developing an AI-powered financial chatbot with pre-defined queries using Python. The chatbot is designed to analyze financial data from 10-K filings and provide structured, user-friendly insights based on predefined queries.
 
 ---
 
